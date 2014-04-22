@@ -1,5 +1,5 @@
 ## boarduino
-This repository contains the Arduino software for the KineticBoard project.
+This repository contains the Arduino sketch for the KineticBoard project.
 
 This software is in development.
 
